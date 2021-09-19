@@ -1,2 +1,4 @@
-# store-management
-c
+# shop billing system
+c language/cmd programe
+
+
